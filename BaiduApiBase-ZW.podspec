@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.homepage     = "https://github.com/EadkennyChan/"
     s.license      = { :type => "MIT", :text => "LICENSE"}
     s.author       = { "Eadkennychan" => "Eadkennychan@gmail.com" }
-    s.source           = { :git => 'https://github.com/EadkennyChan/iflyMSC.git', :tag => s.version.to_s }
+    s.source           = { :git => 'https://github.com/EadkennyChan/BaiduApiBase.git', :tag => s.version.to_s }
     s.requires_arc = true
     s.platform     = :ios
     s.ios.deployment_target = '8.0'
